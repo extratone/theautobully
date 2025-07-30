@@ -1,0 +1,44 @@
+{
+  "colors" : [
+    {
+      "components" : [
+        0.7758,
+        0.7758,
+        0.7758
+      ],
+      "name" : "Sidebar"
+    },
+    {
+      "components" : [
+        1,
+        1,
+        0.0003
+      ],
+      "name" : "Yellow Default"
+    },
+    {
+      "components" : [
+        0.9387,
+        0.9387,
+        0.9387
+      ],
+      "name" : "Fate"
+    },
+    {
+      "components" : [
+        0.0056,
+        0.1845,
+        0.0056
+      ],
+      "name" : "Seven Eleven"
+    },
+    {
+      "components" : [
+        0.0056,
+        0.0578,
+        0.1845
+      ],
+      "name" : "Paleo Blue"
+    }
+  ]
+}
